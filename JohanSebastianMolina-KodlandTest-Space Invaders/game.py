@@ -33,13 +33,6 @@ pausado = False
 tiempo_entre_disparos=0  
 font=pygame.font.SysFont('Small Fonts', 30, bold=True)
 
-def texto_puntuación(frame, text, size, x, y):
-    font = pygame.font.SysFont('Small Fonts', size, bold=True)
-    text_frame = font.render(text, True, white, black)
-    text_rect = text_frame.get_rect()
-    text_rect.midtop = (x, y)
-    frame.blit(text_frame, text_rect)
-
 def mostrar_mensaje_final(score):
     run_mensaje = True
     while run_mensaje:
