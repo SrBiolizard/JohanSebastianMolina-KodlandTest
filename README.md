@@ -1,4 +1,4 @@
-<h1 align="center"> Bienvenid@ a mi test </h1>
+<h1 align="center"> Bienvenid@ a mi desarrollo </h1>
 
 Soy Johan Sebastian Molina y quiero que conozcas el clasico juego Space Invader en lenguaje de programación Python haciendo uso de la librería PyGame
 
