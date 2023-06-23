@@ -14,13 +14,13 @@ El desplazamiento dentro del mapa es sencillo las flechas de tu teclado indican 
 ![2491500](https://github.com/SrBiolizard/JohanSebastianMolina-KodlandTest/assets/72704984/6ebe1f7e-6419-4afe-818f-74d87fb783e7)
 Lo mas divertido es que puedes disparar con cualquier tecla permitiendo que puedas hacerlo muchas veces por segundo
 
-\## 📁 Acceso al proyecto
+**\## 📁 Acceso al proyecto**
 
 **¿Y si juegas un poco antes de codificar?**
 
 Debes descargar Python en tu sistema y algún entonrno de desarrollo para correr los programas facilmente o si prefieres cualquier editor de texto te permite ejecución desde consola
 
-\## 🛠️ Abre y ejecuta el proyecto
+**\## 🛠️ Abre y ejecuta el proyecto**
 
 Te recomiento empezar con tener esta versión de python o superior
 ![Captura de pantalla 2023-06-23 060809](https://github.com/SrBiolizard/JohanSebastianMolina-KodlandTest/assets/72704984/1561e263-9c9d-41d8-8a11-c55209546045)
